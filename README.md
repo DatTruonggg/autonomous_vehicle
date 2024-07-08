@@ -1,4 +1,4 @@
-# autonomous_vehicle
+# Autonomous Vehicle
 # Quick start
 
 ## 1. Create the new environment
