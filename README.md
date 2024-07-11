@@ -20,7 +20,7 @@ Roboflow data link: https://universe.roboflow.com/vietnam-traffic-sign-detection
 
 ### 2.2 Result 
 
-![Traffic Sign Detection Visualization](asset/visualization.jpg) 
+![Traffic Sign Detection Visualization](asset/visualization.png) 
 
 **Loss**:
 
