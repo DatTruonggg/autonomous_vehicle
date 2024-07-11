@@ -7,6 +7,12 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+runs/
+traffic_sign/
+app/
+test_sign.mp4
+*.pptx
+data/
 .Python
 build/
 develop-eggs/
