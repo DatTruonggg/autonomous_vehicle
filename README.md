@@ -21,10 +21,8 @@ Roboflow data link: https://universe.roboflow.com/vietnam-traffic-sign-detection
 ### 2.2 Result 
 
 **Loss**:
-
 **train/box_loss, train/cls_loss, train/dfl_loss**: These loss metrics decrease consistently during training, indicating that the model is learning to predict bounding box locations, classify objects, and estimate distances more accurately.
 val/box_loss, val/cls_loss, val/dfl_loss: The validation losses also decrease, suggesting that the model is not overfitting (memorizing the training data). However, there is some fluctuation in the later epochs, possibly due to a small validation set or randomness in the training process.
-
 **Precision and Recall**:
 
 **metrics/precision(B)**: Precision increases over time, showing that the model is making more accurate bounding box predictions.
